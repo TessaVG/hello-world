@@ -1,3 +1,2 @@
 # hello-world
-Practice
-My name is Tessa.
+Hello, my name is Tessa.
